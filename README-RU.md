@@ -3,8 +3,6 @@
 
 Утилиты и библиотеки для MetaTrader 4/5 проекта Mega Connector.
 
-## Языки
+## Инструкции
 
-* [RU](README-RU.md)
-* [EN](README-EN.md)
-
+* [Инструкция по настроке индикатора-прокладки](doc/ConnectorUserManual/USER-GUIDE-RU.md)
