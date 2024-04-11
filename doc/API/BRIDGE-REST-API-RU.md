@@ -8,8 +8,8 @@
 
 Если вы используете локальный HTTP/HTTPS сервер (например, когда программа MegaConnector и ваше приложение, такое как *MetaTrader*, установлены на одном компьютере), то вместо `{your-ip}` следует использовать `127.0.0.1`.
 
-Для HTTP:  `http://{your-ip}:{your-port}/api/v1`
-Для HTTPS: `https://{your-ip}:{your-port}/api/v1`
+* Для HTTP:  `http://{your-ip}:{your-port}/api/v1`
+* Для HTTPS: `https://{your-ip}:{your-port}/api/v1`
 
 Замените `{your-ip}` на IP-адрес вашего сервера и `{your-port}` на номер порта, настроенного для API в программе *MegaConnector*.
 
