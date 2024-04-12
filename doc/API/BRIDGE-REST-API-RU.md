@@ -81,7 +81,7 @@ GET https://127.0.0.1:8080/api/v1/ping
   * code - код ошибки, тип int.
   * message - сообщение об ошибке, тип string.
 
-### POST /trade_request
+### POST /place_trade
 Дает команду MegaConnector открыть один или несколько сделок.
 
 #### Запрос
